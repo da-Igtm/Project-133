@@ -1,0 +1,33 @@
+.btn{
+   color: brown;
+   font-size: 20px;
+   padding: 23px;
+   margin: 20px;
+}
+body{
+   background-size:cover ;
+}
+#heading{
+   width: 100%;
+}
+canvas{
+  background-color: aquamarine; 
+  border-color: black;
+  box-shadow: 4px 7px 23px burlywood;
+  padding: 20px;
+  margin: 20px;
+}
+#status{
+   background-color: forestgreen;
+   color: brown;
+   font-size: small;
+   padding: 23px;
+   margin: 10px;
+}
+#objects{
+   background-color: indianred;
+   color: darkkhaki;
+   font-size: small;
+   padding: 23px;
+   margin: 10px;
+}
